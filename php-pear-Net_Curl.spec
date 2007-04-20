@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - an OO interface to the cURL extension
 Name:		php-pear-%{_pearname}
-Version:	1.2.2
-Release:	%mkrel 2
+Version:	1.2.3
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
