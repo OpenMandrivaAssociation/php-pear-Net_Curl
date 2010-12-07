@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.5
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	An OO interface to the cURL extension
 License:	PHP License
 Group:		Development/PHP
