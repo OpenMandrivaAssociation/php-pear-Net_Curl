@@ -8,7 +8,7 @@ Release:	9
 Summary:	An OO interface to the cURL extension
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_Curl/
+URL:		https://pear.php.net/package/Net_Curl/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
